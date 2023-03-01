@@ -21,7 +21,7 @@ Here are a few ideas I believe I can add value as a SDET:
 - Identify trends and effectiveness of test suites to determine between automation versus manual testing
 
 
-✉️ Dose this sound like a good fit? If yes, let's connect and discuss how I can help. You can reach me at myup.work/nganntk<myup.work/nganntk>
+✉️ Dose this sound like a good fit? If yes, let's connect and discuss how I can help. You can reach me at [myup.work/nganntk](https://myup.work/nganntk)
 <!--
 **kkimngann/kkimngann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
