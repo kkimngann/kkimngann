@@ -10,6 +10,8 @@ I'm also a certified Atlassian engineer, specializing in configuring Jira settin
 
 🎖️ [ myup.work/nganntk-isqtb ] ■ Certified Tester, Advanced Level Test Manager
 
+🎖️ [ myup.work/nganntk-isqtb ] ■ Certified Tester, Advanced Level Test Automation Engineer
+
 🎖️ [ myup.work/nganntk-acp-610 ] ■ Certified Jira Data Center Project Admin
 
 🎖️ [ myup.work/nganntk-acp-620 ] ■ Certified Jira Cloud Project Admin
