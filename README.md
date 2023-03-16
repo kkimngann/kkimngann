@@ -8,9 +8,9 @@ As an experienced test engineer who is well-trained and certified by ISQTB [ isq
 
 I'm also a certified Atlassian engineer, specializing in configuring Jira settings and configuration that perfectly meets with QA processes. If your team also uses Jira as the project management tool, I can help to recommend best practices and guidelines provided by Atlassian.
 
-🎖️ [ myup.work/nganntk-isqtb ] ■ Certified Tester, Advanced Level Test Manager
-
 🎖️ [ myup.work/nganntk-isqtb ] ■ Certified Tester, Advanced Level Test Automation Engineer
+
+🎖️ [ myup.work/nganntk-isqtb ] ■ Certified Tester, Advanced Level Test Manager
 
 🎖️ [ myup.work/nganntk-acp-610 ] ■ Certified Jira Data Center Project Admin
 
